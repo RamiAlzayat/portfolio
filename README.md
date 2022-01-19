@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamiAlzayat&theme=dark)](https://git.io/streak-stats)
-
 
 # Getting Started with Create React App
 
